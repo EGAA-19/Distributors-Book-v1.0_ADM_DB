@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\DataAccess\bin\Debug\Common.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\DataAccess\bin\Debug\Common.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\DataAccess\obj\Debug\DataAccess.pdb

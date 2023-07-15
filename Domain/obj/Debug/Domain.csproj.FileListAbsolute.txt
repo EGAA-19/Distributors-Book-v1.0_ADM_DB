@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\Domain\bin\Debug\Domain.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\Domain\bin\Debug\Domain.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\Domain\bin\Debug\Common.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\Domain\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\Domain\bin\Debug\Common.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\Domain\obj\Debug\Domain.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\DistributorsBook_V1.0\Domain\obj\Debug\Domain.pdb
